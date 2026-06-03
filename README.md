@@ -50,6 +50,6 @@ Solve **500+ problems** across all major DSA topics.
 
 ## 📬 Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/gururaj-lande)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gururaj-lande)
 - 🐙 [GitHub](https://github.com/gururajlande7)
 - 🐙 [LeetCode](https://leetcode.com/u/GururajLande/)
