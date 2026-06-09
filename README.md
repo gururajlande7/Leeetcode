@@ -13,13 +13,21 @@ Each solution is organized by topic with approach and time complexity.
 
 ## 📂 Structure
 leetcode/
+
 ├── arrays/
+
 ├── strings/
+
 ├── linked-lists/
+
 ├── trees/
+
 ├── dynamic-programming/
+
 ├── bitwise/
+
 └── sorting-searching/
+
 
 
 ---
