@@ -7,7 +7,8 @@ Solving DSA problems consistently to sharpen problem-solving skills and prepare 
 ## 📌 About
 
 This repo contains my solutions to LeetCode problems written in  **C++**.
-Each solution is organized by topic with approach and time complexity.
+Each solution is organized by topic.
+> `update` commits = daily LeetCode solutions added
 
 ---
 
