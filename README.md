@@ -38,8 +38,8 @@ leetcode/
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy    | 32     |
-| 🟡 Medium  | 15      |
-| 🔴 Hard    | 0      |
+| 🟡 Medium  | 16      |
+| 🔴 Hard    | 1      |
 
 *(Updated regularly)*
 
