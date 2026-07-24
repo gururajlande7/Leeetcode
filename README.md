@@ -39,7 +39,7 @@ leetcode/
 |------------|--------|
 | 🟢 Easy    | 53     |
 | 🟡 Medium  | 23      |
-| 🔴 Hard    | 1      |
+| 🔴 Hard    | 2      |
 
 *(Updated regularly)*
 
