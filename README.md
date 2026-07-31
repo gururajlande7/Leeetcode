@@ -37,11 +37,11 @@ leetcode/
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 56     |
+| 🟢 Easy    | 57     |
 | 🟡 Medium  | 28      |
 | 🔴 Hard    | 2      |
 
-*(Updated regularly)*
+*(approximately)*
 
 ---
 
