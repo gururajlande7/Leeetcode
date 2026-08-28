@@ -37,7 +37,7 @@ leetcode/
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 73     |
+| 🟢 Easy    | 74     |
 | 🟡 Medium  | 46      |
 | 🔴 Hard    | 3      |
 
